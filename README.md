@@ -1,6 +1,11 @@
 # 110_project
 *Your name*'s User Page
 
+# tasks
+
+-[x] start cse 110
+-[] learn 
+-[] finish cse 110
 all languages are nice but some are nicer for given tasks!
 
 ## **will change when 110 is over**
