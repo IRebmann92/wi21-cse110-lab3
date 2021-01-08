@@ -12,7 +12,11 @@ all languages are nice but some are nicer for given tasks!
 
 ## **will change when 110 is over**
 
-A happy man once said..
+Arthur Conan Doyle
+
+>You see, but you do not observe
+
+A happy man
 
 > monkey love money but human love more
 
