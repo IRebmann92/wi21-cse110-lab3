@@ -22,6 +22,6 @@ A happy man
 
 ![BW_aderondaks](https://user-images.githubusercontent.com/60708439/103956832-2e155f80-50fe-11eb-9bd4-c90c78d39701.JPG)
 
-instagram:  [(https://www.instagram.com/ianrebmann/)]
+click for a link to my [instagram](https://www.instagram.com/ianrebmann/)
 
 
