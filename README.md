@@ -10,7 +10,14 @@
  
 all languages are nice but some are nicer for given tasks!
 
-## **will change when 110 is over**
+## **_will change when 110 is over_ but here are some commands**
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
 
 Arthur Conan Doyle
 
