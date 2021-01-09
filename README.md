@@ -29,7 +29,7 @@ A happy man
 
 ![BW_aderondaks](https://user-images.githubusercontent.com/60708439/103956832-2e155f80-50fe-11eb-9bd4-c90c78d39701.JPG)
 
-[here is a _REALATIVE LINK_ to the photo above] (main/BW_aderondaks.JPG)
+[here is a _REALATIVE LINK_ to the photo above](BW_aderondaks.JPG)
 
 click for a link to my [instagram](https://www.instagram.com/ianrebmann/)
 
