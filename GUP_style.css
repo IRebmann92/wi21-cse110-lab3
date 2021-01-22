@@ -1,8 +1,8 @@
 body {
-  background-color: coral;
+  background-color: rgb(235, 110, 52);
 }
 
 h1 {
-  color: cyan;
+  color: rgb(52, 183, 235);
   margin-left: 20px;
 }
