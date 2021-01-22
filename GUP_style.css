@@ -20,6 +20,13 @@
   position: -webkit-sticky; /* Safari */
   position: sticky;
   top: 0;
-  background-color: green;
+  background-color: rgb(255, 252, 161);
   border: 2px solid #4CAF50;
   }
+
+
+<style>
+#yellow_HL {
+  background-color: yellow;
+}
+</style>
