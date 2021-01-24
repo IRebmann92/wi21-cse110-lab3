@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">  
 <link rel="stylesheet" href="GUP_style.css">
 
 <style>
@@ -41,6 +42,17 @@ a:active {
   text-align: center;
   line-height: 75px;
   font-size: 30px;
+}
+    /* media query for change size screen */
+  div.example {
+  background-color: yellow;
+  padding: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  div.example {
+    display: none;
+  }
 }
 
 </style>
@@ -158,8 +170,8 @@ below is a link to my instagram to see some cool stuff I have seen!
 </form>
 <footer>
   <h2>
-Thanks for stoping by!
-    My name is GABE I will be here to scan yo....help you, I exist to find data from all over the Globe! Thank you for your contribution
+Thanks for stoping by! Resize your window for a message.
+    <div class="example">My name is GABE I will be here to scan yo....help you, I exist to find data from all over the Globe! Thank you for your contribution.</div>
 </h2>
   <div class="sticky">
                       [({(o)})]
